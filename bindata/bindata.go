@@ -149,7 +149,7 @@ func vulndbDb1AllowedHttpMethodsJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/1-allowed-http-methods.json", size: 1722, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/1-allowed-http-methods.json", size: 1722, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -169,7 +169,7 @@ func vulndbDb10CommonSensitiveFileJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/10-common-sensitive-file.json", size: 1779, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/10-common-sensitive-file.json", size: 1779, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -189,7 +189,7 @@ func vulndbDb11CookieSetForParentDomainJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/11-cookie-set-for-parent-domain.json", size: 1879, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/11-cookie-set-for-parent-domain.json", size: 1879, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -209,7 +209,7 @@ func vulndbDb12CreditCardNumberDisclosureJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/12-credit-card-number-disclosure.json", size: 1875, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/12-credit-card-number-disclosure.json", size: 1875, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -229,7 +229,7 @@ func vulndbDb13CrossSiteRequestForgeryJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/13-cross-site-request-forgery.json", size: 2967, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/13-cross-site-request-forgery.json", size: 2967, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -249,7 +249,7 @@ func vulndbDb14CvsSvnUserDisclosureJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/14-cvs-svn-user-disclosure.json", size: 1576, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/14-cvs-svn-user-disclosure.json", size: 1576, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -269,7 +269,7 @@ func vulndbDb15DirectoryListingJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/15-directory-listing.json", size: 2113, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/15-directory-listing.json", size: 2113, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -289,7 +289,7 @@ func vulndbDb16EMailAddressDisclosureJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/16-e-mail-address-disclosure.json", size: 937, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/16-e-mail-address-disclosure.json", size: 937, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -309,7 +309,7 @@ func vulndbDb17FileInclusionJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/17-file-inclusion.json", size: 2292, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/17-file-inclusion.json", size: 2292, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -329,7 +329,7 @@ func vulndbDb18FormBasedFileUploadJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/18-form-based-file-upload.json", size: 2159, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/18-form-based-file-upload.json", size: 2159, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -349,7 +349,7 @@ func vulndbDb19MissingStrictTransportSecurityHeaderJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/19-missing-strict-transport-security-header.json", size: 2074, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/19-missing-strict-transport-security-header.json", size: 2074, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -369,7 +369,7 @@ func vulndbDb2ABackdoorFileExistsOnTheServerJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/2-a-backdoor-file-exists-on-the-server.json", size: 2152, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/2-a-backdoor-file-exists-on-the-server.json", size: 2152, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -389,7 +389,7 @@ func vulndbDb20MisconfigurationInLimitDirectiveOfHtaccessFileJson() (*asset, err
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/20-misconfiguration-in-limit-directive-of-htaccess-file.json", size: 1689, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/20-misconfiguration-in-limit-directive-of-htaccess-file.json", size: 1689, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -409,7 +409,7 @@ func vulndbDb21HtmlObjectJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/21-html-object.json", size: 589, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/21-html-object.json", size: 589, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -429,7 +429,7 @@ func vulndbDb22HttponlyCookieJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/22-httponly-cookie.json", size: 1812, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/22-httponly-cookie.json", size: 1812, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -449,7 +449,7 @@ func vulndbDb23PubliclyWritableDirectoryJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/23-publicly-writable-directory.json", size: 2091, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/23-publicly-writable-directory.json", size: 2091, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -469,7 +469,7 @@ func vulndbDb24InsecureClientAccessPolicyJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/24-insecure-client-access-policy.json", size: 1719, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/24-insecure-client-access-policy.json", size: 1719, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -489,7 +489,7 @@ func vulndbDb25InsecureCookieJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/25-insecure-cookie.json", size: 1965, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/25-insecure-cookie.json", size: 1965, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -509,7 +509,7 @@ func vulndbDb26AccessControlAllowOriginStarJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/26-access-control-allow-origin-star.json", size: 1807, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/26-access-control-allow-origin-star.json", size: 1807, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -529,7 +529,7 @@ func vulndbDb27InsecureCrossDomainPolicyAllowAccessFromJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/27-insecure-cross-domain-policy-allow-access-from.json", size: 1691, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/27-insecure-cross-domain-policy-allow-access-from.json", size: 1691, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -549,7 +549,7 @@ func vulndbDb29InterestingResponseJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/29-interesting-response.json", size: 692, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/29-interesting-response.json", size: 692, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -569,7 +569,7 @@ func vulndbDb3BackupDirectoryJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/3-backup-directory.json", size: 2093, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/3-backup-directory.json", size: 2093, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -589,7 +589,7 @@ func vulndbDb30LdapInjectionJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/30-ldap-injection.json", size: 2239, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/30-ldap-injection.json", size: 2239, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -609,7 +609,7 @@ func vulndbDb31ExposedLocalstartAspPageJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/31-exposed-localstart-asp-page.json", size: 2220, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/31-exposed-localstart-asp-page.json", size: 2220, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -629,7 +629,7 @@ func vulndbDb32MixedResourceJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/32-mixed-resource.json", size: 1966, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/32-mixed-resource.json", size: 1966, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -649,7 +649,7 @@ func vulndbDb33NosqlInjectionJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/33-nosql-injection.json", size: 1283, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/33-nosql-injection.json", size: 1283, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -669,7 +669,7 @@ func vulndbDb34BlindNosqlInjectionDifferentialAnalysisJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/34-blind-nosql-injection-differential-analysis.json", size: 1393, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/34-blind-nosql-injection-differential-analysis.json", size: 1393, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -689,7 +689,7 @@ func vulndbDb35AccessRestrictionBypassViaOriginSpoofJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/35-access-restriction-bypass-via-origin-spoof.json", size: 1480, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/35-access-restriction-bypass-via-origin-spoof.json", size: 1480, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -709,7 +709,7 @@ func vulndbDb36OperatingSystemCommandInjectionJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/36-operating-system-command-injection.json", size: 1995, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/36-operating-system-command-injection.json", size: 1995, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -729,7 +729,7 @@ func vulndbDb38PasswordFieldWithAutoCompleteJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/38-password-field-with-auto-complete.json", size: 1944, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/38-password-field-with-auto-complete.json", size: 1944, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -749,7 +749,7 @@ func vulndbDb39PathTraversalJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/39-path-traversal.json", size: 3005, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/39-path-traversal.json", size: 3005, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -769,7 +769,7 @@ func vulndbDb4BackupFileJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/4-backup-file.json", size: 2045, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/4-backup-file.json", size: 2045, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -789,7 +789,7 @@ func vulndbDb40PrivateIpAddressDisclosureJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/40-private-ip-address-disclosure.json", size: 1450, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/40-private-ip-address-disclosure.json", size: 1450, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -809,7 +809,7 @@ func vulndbDb41ResponseSplittingJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/41-response-splitting.json", size: 1757, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/41-response-splitting.json", size: 1757, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -829,7 +829,7 @@ func vulndbDb42RemoteFileInclusionJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/42-remote-file-inclusion.json", size: 2711, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/42-remote-file-inclusion.json", size: 2711, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -849,7 +849,7 @@ func vulndbDb43SessionFixationJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/43-session-fixation.json", size: 2518, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/43-session-fixation.json", size: 2518, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -869,7 +869,7 @@ func vulndbDb44SourceCodeDisclosureJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/44-source-code-disclosure.json", size: 2443, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/44-source-code-disclosure.json", size: 2443, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -889,7 +889,7 @@ func vulndbDb45SqlInjectionJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/45-sql-injection.json", size: 2973, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/45-sql-injection.json", size: 2973, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -909,7 +909,7 @@ func vulndbDb46BlindSqlInjectionJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/46-blind-sql-injection.json", size: 2878, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/46-blind-sql-injection.json", size: 2878, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -929,7 +929,7 @@ func vulndbDb47BlindSqlInjectionTimingAttackJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/47-blind-sql-injection-timing-attack.json", size: 2882, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/47-blind-sql-injection-timing-attack.json", size: 2882, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -949,7 +949,7 @@ func vulndbDb48DisclosedUsSocialSecurityNumberSsnJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/48-disclosed-us-social-security-number-ssn.json", size: 1232, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/48-disclosed-us-social-security-number-ssn.json", size: 1232, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -969,7 +969,7 @@ func vulndbDb49UnencryptedPasswordFormJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/49-unencrypted-password-form.json", size: 1826, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/49-unencrypted-password-form.json", size: 1826, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -989,7 +989,7 @@ func vulndbDb5CaptchaProtectedFormJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/5-captcha-protected-form.json", size: 1471, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/5-captcha-protected-form.json", size: 1471, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1009,7 +1009,7 @@ func vulndbDb50UnvalidatedRedirectJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/50-unvalidated-redirect.json", size: 1795, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/50-unvalidated-redirect.json", size: 1795, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1029,7 +1029,7 @@ func vulndbDb51UnvalidatedDomRedirectJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/51-unvalidated-dom-redirect.json", size: 1754, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/51-unvalidated-dom-redirect.json", size: 1754, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1049,7 +1049,7 @@ func vulndbDb52WebdavJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/52-webdav.json", size: 1741, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/52-webdav.json", size: 1741, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1069,7 +1069,7 @@ func vulndbDb53MissingXFrameOptionsHeaderJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/53-missing-x-frame-options-header.json", size: 1437, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/53-missing-x-frame-options-header.json", size: 1437, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1089,7 +1089,7 @@ func vulndbDb54XpathInjectionJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/54-xpath-injection.json", size: 2119, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/54-xpath-injection.json", size: 2119, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1109,7 +1109,7 @@ func vulndbDb55CrossSiteScriptingXssJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/55-cross-site-scripting-xss.json", size: 2792, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/55-cross-site-scripting-xss.json", size: 2792, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1129,7 +1129,7 @@ func vulndbDb56DomBasedCrossSiteScriptingXssJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/56-dom-based-cross-site-scripting-xss.json", size: 2434, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/56-dom-based-cross-site-scripting-xss.json", size: 2434, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1149,7 +1149,7 @@ func vulndbDb6CodeInjectionJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/6-code-injection.json", size: 2201, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/6-code-injection.json", size: 2201, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1169,7 +1169,7 @@ func vulndbDb63HttpTraceJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/63-http-trace.json", size: 1768, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/63-http-trace.json", size: 1768, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1189,7 +1189,7 @@ func vulndbDb64XmlExternalEntityJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/64-xml-external-entity.json", size: 1197, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/64-xml-external-entity.json", size: 1197, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1209,7 +1209,7 @@ func vulndbDb65ArbitraryFileUploadJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/65-arbitrary-file-upload.json", size: 2190, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/65-arbitrary-file-upload.json", size: 2190, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1229,7 +1229,7 @@ func vulndbDb66InsecureSslVersionJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/66-insecure-ssl-version.json", size: 1121, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/66-insecure-ssl-version.json", size: 1121, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1249,7 +1249,7 @@ func vulndbDb67SelfSignedSslCertificateJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/67-self-signed-ssl-certificate.json", size: 892, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/67-self-signed-ssl-certificate.json", size: 892, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1269,7 +1269,7 @@ func vulndbDb68ShellshockJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/68-shellshock.json", size: 1096, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/68-shellshock.json", size: 1096, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1289,7 +1289,7 @@ func vulndbDb69InsecureFrontpageConfigurationJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/69-insecure-frontpage-configuration.json", size: 891, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/69-insecure-frontpage-configuration.json", size: 891, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1309,7 +1309,7 @@ func vulndbDb70PersistentXssJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/70-persistent-xss.json", size: 3197, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/70-persistent-xss.json", size: 3197, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1329,7 +1329,7 @@ func vulndbDb71ReflectedFileDownloadJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/71-reflected-file-download.json", size: 1682, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/71-reflected-file-download.json", size: 1682, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1349,7 +1349,7 @@ func vulndbDb72CacheControlHeadersJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/72-cache-control-headers.json", size: 776, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/72-cache-control-headers.json", size: 776, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1369,7 +1369,7 @@ func vulndbDb73InformationLeakStackTraceJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/73-information-leak-stack-trace.json", size: 1373, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/73-information-leak-stack-trace.json", size: 1373, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1389,7 +1389,7 @@ func vulndbDb74PhishingVectorJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/74-phishing-vector.json", size: 1258, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/74-phishing-vector.json", size: 1258, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1409,7 +1409,7 @@ func vulndbDb8CodeInjectionJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/8-code-injection.json", size: 2109, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/8-code-injection.json", size: 2109, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1429,7 +1429,7 @@ func vulndbDb9CommonDirectoryJson() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db/9-common-directory.json", size: 1888, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db/9-common-directory.json", size: 1888, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1449,7 +1449,7 @@ func vulndbDbVersionTxt() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/db-version.txt", size: 41, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/db-version.txt", size: 41, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1469,7 +1469,7 @@ func vulndbVersionTxt() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "vulndb/version.txt", size: 6, mode: os.FileMode(420), modTime: time.Unix(1436734123, 0)}
+	info := bindataFileInfo{name: "vulndb/version.txt", size: 6, mode: os.FileMode(420), modTime: time.Unix(1436734318, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
