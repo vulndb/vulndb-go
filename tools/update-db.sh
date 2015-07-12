@@ -34,5 +34,5 @@ go-bindata -o="./bindata/bindata.go" -pkg="bindata" ./vulndb/...
 # format bindata file
 goimports -w "./bindata/bindata.go"
 # Push to repo
-#git commit vulndb/version.txt vulndb/db-version.txt vinbdata/bindata.go -m 'Updated vulnerability database'
-#git push
+git commit vulndb/version.txt vulndb/db-version.txt bindata/bindata.go -m 'Updated vulnerability database'
+git push
